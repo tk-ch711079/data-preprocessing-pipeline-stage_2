@@ -1,5 +1,6 @@
 # Data Preprocessing Pipeline (Stage 2)
 
+
 本リポジトリは、業務システムから抽出された進捗データを
 「整形 → 集約 → Excel 後処理」するための前処理パイプライン（Stage2）をまとめたものです。
 
